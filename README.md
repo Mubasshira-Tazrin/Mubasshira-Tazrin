@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mubasshira</h1>
 <h3 align="center">A passionate CSE graduate from Chittagong University of Engineering & Technology</h3>
 
-<img align="right" alt="coding" width="400" src="https://drive.google.com/file/d/14cB7CL6iRaAlpww9YIcDh4HCmQBe6HE6/view?usp=sharing">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mubasshira-tazrin&label=Profile%20views&color=0e75b6&style=flat" alt="mubasshira-tazrin" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mubasshira-tazrin" alt="mubasshira-tazrin" /></a> </p>
